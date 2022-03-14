@@ -1,0 +1,97 @@
+/* FUENTES Y COLORES GENERALES */
+
+h1 {
+   color: #fff;
+}
+
+
+/* Pruebas */
+
+.box {
+    width: 500px;
+    height: 500px;
+}
+
+/* ================== HEADER ================== */
+
+/* navbar */
+
+#idHeader {
+    background-image: url("../img/fondo5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+#idHeader::before {
+    content: "";
+  position: absolute;
+  background-color: #000;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 0;
+  opacity: 0.4;
+  height: 100vh;
+}
+
+#idNabvar::before {
+    content: "";
+    position: absolute;
+    background-color: #fff;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 0;
+    opacity: 0.1;
+}
+
+#idNabvar.sticky{
+    padding: 10px 80px;
+    background-color: #fff;
+    opacity: .9;
+}
+
+#idNabvar {
+    display: flex;
+    padding: 40px 80px;
+    transition: .7s;
+}
+
+
+/* ENCABEZADO */
+
+.--es_box {
+    height: 500px;
+    margin-top: 200px;
+    /* width: 500px; */
+}
+
+
+
+
+
+.--es_barra {
+    /* display: flex;
+    padding: 40px 100px; */
+    
+    /* justify-content: space-between; */
+}
+
+.--es_font-color {
+    color: #fff;
+}
+
+
+section.sticky .--es_font-color {
+    color: #000;
+}
+
+.--es_navbar {
+    /* display: flex;
+    padding: 40px 40px;
+    transition: .7s; */
+}
