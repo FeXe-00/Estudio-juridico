@@ -1,18 +1,17 @@
-const math = require('./math')
-const http = require('http');
-
-/* console.log(math.add(25,8)); */
-
-const hostname = '127.0.0.1';
-const port = 3000;
-
-const server = http.createServer((req, res) =>{
-    res.statusCode = 200;
-    res.setHeader('Content-type', 'text/plain');
-    res.end('Hello World!');
-})
+const routerApi = require('./routes');
 
 
-server.listen(port, hostname, () => {
-    console.log(`Server running at http://${hostname}:${port}`)
+const express = require('express'); 
+/* const faker = require('faker'); */
+const app = express();
+const port = 5000;
+routerApi(app);
+
+/* app.use(express.static('public')); */
+/* app.use(express.urlencoded({ extended: true })) */
+
+
+
+app.listen(port, () => {
+    console.log('localhost:'+port)
 })
