@@ -1,0 +1,66 @@
+Informática:
+_Rama de la ingeniería que estudia el hardware, las redes de datos y los softwares necesarios para tratar la información de 
+forma automática.
+
+Hardware_
+_Es la parte física o tangible que compone a una computadora, formada por varios componentes interrelacionados entre sí, los cuales
+ comunican y almacenan datos en código binario. ejemplos: procesador(CPU), memoria RAM o de acceso aleatorio,memoria de almacenamiento
+ ssd o hdd (de estado sólido o disco rígido), motherboard o placa madre, etc...
+
+Software:
+_Es la parte "intangible" por así decir, o más abstracta, son programas que siguen cierta lógica o instrucciones
+ las cuales son desarroladas por un lenguaje de programación(si te llegan a pedir ejemplo deci Java, Python o JavaScript).
+ Estos softwares o programas se encargan de realizar diversas tareas como mostrar o capturar datos. Ejemplos de software: 
+ Los drivers de los componentes del hardware,el sistema operativo(windows, linux, ios, etc...), hasta facebook, todo lo
+ que se encuentra en el internet es un software. 
+
+Unidades de medida:
+*En la informática la informacion se maneja con 1's y 0's siendo este el idioma que entiende el ordenador,
+ siendo 1 Bit la unidad más pequeña de información del ordenador. Mientras más bits se tengan más información
+ se puede reprecentar
+
+_Bite: compuesto por 8 bits.
+
+_Kilobyte, Kbyte o KB: corresponde a 1024 bytes.
+
+_Megabyte, Mbyte o MB: un Mb hace referencia a 1024 Kbytes y, 1.048.576 bytes.
+
+_Gigabyte o Gbyte o GB: Un Gbyte corresponde a 1024 Mbytes.
+
+_Terabyte o Tbyte o TB: Un Tbyte son 1024 Gbytes.
+
+_Petabyte o PB: corresponde a 1024 Terabyte.
+
+_Exabyte o EB: Un EB hace referencia a 1024 Petabyte.
+
+_Zettabyte o ZB: Un ZB es 1024 EB.
+
+_Yottabyte o YB: Un YB corresponde a 1024 ZB.
+
+_Brontobyte o BB: Un BB hace referencia a 1024 YB.
+
+_Geopbyte o GB: Un GB es 1024 BB.
+
+
+CPU(central process unit, en español unidad de procesamiento central) o procesador:
+
+_la cpu es el corazón de una computadora, ejecuta de manera secuencial los datos de todos
+ los programas del ordenador(tanto de perifericos como de drivers y softwares que se estén ejecutando) 
+
+HDD(Hard Drive Disk) o dísco sólido:
+
+_Es la unidad de hardware que se encarga de almacenar o persisitir datos en el tiempo en un disco que graba los datos utilizando el magnetismo,
+ tanto de archivos como softwares en sí, incluso hasta el sistema operativo.
+ Hoy en días hay una variantre más veloz y superior a los HDD, son los SSD o unidades de estado sólido,
+ que dejan a un lado el concenpto de disco para persistir datos y utiliza otros componentes más veloces.
+
+RAM(random Access Memory) o memoria ram:
+
+_La memoria de acceso aleatorio se encarga de almacenar datos recientes para que el ordenador no pierda tiempo buscando en la memoria
+ de almacenamiento, lo que incrementa la velocidad de el ordenador. Son memorias volátiles o de corto plazo, ya que al apagar el ordenador, 
+ los datos en la RAM se borran.
+
+
+
+
+
